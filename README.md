@@ -1,4 +1,4 @@
-# Zero to Front-end Hero series` 
+# Zero to Front-end Hero series 
 
 Level up on Javascript
 
